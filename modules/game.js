@@ -1,5 +1,4 @@
 // Game Classes
-
 class Vector {
     constructor(x, y) {
         this.x = x;
