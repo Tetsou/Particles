@@ -1,12 +1,12 @@
 {
   "name": "particles",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Particle array manipulation in javascript",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "teardrop media",
   "license": "ISC"
 }
